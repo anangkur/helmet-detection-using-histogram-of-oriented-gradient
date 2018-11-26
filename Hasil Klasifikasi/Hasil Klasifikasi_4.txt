@@ -1,0 +1,520 @@
+Testing SVM linear..
+ 
+performansi svm_16x16_18bins_180_linear: 
+akurasi: 80%
+presisi: 80%
+recall: 95.7746%
+fmeasure: 87.1795%
+ 
+ 
+performansi svm_16x16_18bins_360_linear: 
+akurasi: 79%
+presisi: 79.0698%
+recall: 95.7746%
+fmeasure: 86.6242%
+ 
+ 
+performansi svm_16x16_9bins_180_linear: 
+akurasi: 81%
+presisi: 80.9524%
+recall: 95.7746%
+fmeasure: 87.7419%
+ 
+ 
+performansi svm_16x16_9bins_360_linear: 
+akurasi: 78%
+presisi: 78.8235%
+recall: 94.3662%
+fmeasure: 85.8974%
+ 
+ 
+performansi svm_8x8_18bins_180_linear: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+performansi svm_8x8_18bins_360_linear: 
+akurasi: 82%
+presisi: 79.7753%
+recall: 100%
+fmeasure: 88.75%
+ 
+ 
+performansi svm_8x8_9bins_180_linear: 
+akurasi: 82%
+presisi: 79.7753%
+recall: 100%
+fmeasure: 88.75%
+ 
+ 
+performansi svm_8x8_9bins_360_linear: 
+akurasi: 82%
+presisi: 79.7753%
+recall: 100%
+fmeasure: 88.75%
+ 
+ 
+Testing SVM RBF..
+ 
+performansi svm_16x16_18bins_180_RBF: 
+akurasi: 80%
+presisi: 79.3103%
+recall: 97.1831%
+fmeasure: 87.3418%
+ 
+ 
+performansi svm_16x16_18bins_360_RBF: 
+akurasi: 82%
+presisi: 81.1765%
+recall: 97.1831%
+fmeasure: 88.4615%
+ 
+ 
+performansi svm_16x16_9bins_180_RBF: 
+akurasi: 82%
+presisi: 81.1765%
+recall: 97.1831%
+fmeasure: 88.4615%
+ 
+ 
+performansi svm_16x16_9bins_360_RBF: 
+akurasi: 80%
+presisi: 80.7229%
+recall: 94.3662%
+fmeasure: 87.013%
+ 
+ 
+performansi svm_8x8_18bins_180_RBF: 
+akurasi: 82%
+presisi: 79.7753%
+recall: 100%
+fmeasure: 88.75%
+ 
+ 
+performansi svm_8x8_18bins_360_RBF: 
+akurasi: 82%
+presisi: 79.7753%
+recall: 100%
+fmeasure: 88.75%
+ 
+ 
+performansi svm_8x8_9bins_180_RBF: 
+akurasi: 82%
+presisi: 79.7753%
+recall: 100%
+fmeasure: 88.75%
+ 
+ 
+performansi svm_8x8_9bins_360_RBF: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+Testing SVM Polynomial..
+ 
+performansi svm_16x16_18bins_180_Polynomial: 
+akurasi: 82%
+presisi: 86.3014%
+recall: 88.7324%
+fmeasure: 87.5%
+ 
+ 
+performansi svm_16x16_18bins_360_Polynomial: 
+akurasi: 81%
+presisi: 83.3333%
+recall: 91.5493%
+fmeasure: 87.2483%
+ 
+ 
+performansi svm_16x16_9bins_180_Polynomial: 
+akurasi: 84%
+presisi: 86.6667%
+recall: 91.5493%
+fmeasure: 89.0411%
+ 
+ 
+performansi svm_16x16_9bins_360_Polynomial: 
+akurasi: 84%
+presisi: 87.6712%
+recall: 90.1408%
+fmeasure: 88.8889%
+ 
+ 
+performansi svm_8x8_18bins_180_Polynomial: 
+akurasi: 82%
+presisi: 83.5443%
+recall: 92.9577%
+fmeasure: 88%
+ 
+ 
+performansi svm_8x8_18bins_360_Polynomial: 
+akurasi: 85%
+presisi: 85.8974%
+recall: 94.3662%
+fmeasure: 89.9329%
+ 
+ 
+performansi svm_8x8_9bins_180_Polynomial: 
+akurasi: 86%
+presisi: 86.0759%
+recall: 95.7746%
+fmeasure: 90.6667%
+ 
+ 
+performansi svm_8x8_9bins_360_Polynomial: 
+akurasi: 84%
+presisi: 85.7143%
+recall: 92.9577%
+fmeasure: 89.1892%
+ 
+ 
+Testing jst 1..
+ 
+performansi jst_16x16_18bins_180_1: 
+akurasi: 77%
+presisi: 76.087%
+recall: 98.5915%
+fmeasure: 85.8896%
+ 
+ 
+performansi jst_16x16_18bins_360_1: 
+akurasi: 78%
+presisi: 80.2469%
+recall: 91.5493%
+fmeasure: 85.5263%
+ 
+ 
+performansi jst_16x16_9bins_180_1: 
+akurasi: 78%
+presisi: 85.5072%
+recall: 83.0986%
+fmeasure: 84.2857%
+ 
+ 
+performansi jst_16x16_9bins_360_1: 
+akurasi: 71%
+presisi: 71%
+recall: 100%
+fmeasure: 83.0409%
+ 
+ 
+performansi jst_8x8_18bins_180_1: 
+akurasi: 80%
+presisi: 83.1169%
+recall: 90.1408%
+fmeasure: 86.4865%
+ 
+ 
+performansi jst_8x8_18bins_360_1: 
+akurasi: 80%
+presisi: 84%
+recall: 88.7324%
+fmeasure: 86.3014%
+ 
+ 
+performansi jst_8x8_9bins_180_1: 
+akurasi: 84%
+presisi: 85.7143%
+recall: 92.9577%
+fmeasure: 89.1892%
+ 
+ 
+performansi jst_8x8_9bins_360_1: 
+akurasi: 85%
+presisi: 87.8378%
+recall: 91.5493%
+fmeasure: 89.6552%
+ 
+ 
+Testing jst 2..
+ 
+performansi jst_16x16_18bins_180_3: 
+akurasi: 74%
+presisi: 73.1959%
+recall: 100%
+fmeasure: 84.5238%
+ 
+ 
+performansi jst_16x16_18bins_360_3: 
+akurasi: 71%
+presisi: 71%
+recall: 100%
+fmeasure: 83.0409%
+ 
+ 
+performansi jst_16x16_9bins_180_3: 
+akurasi: 84%
+presisi: 83.1325%
+recall: 97.1831%
+fmeasure: 89.6104%
+ 
+ 
+performansi jst_16x16_9bins_360_3: 
+akurasi: 77%
+presisi: 80%
+recall: 90.1408%
+fmeasure: 84.7682%
+ 
+ 
+performansi jst_8x8_18bins_180_3: 
+akurasi: 82%
+presisi: 85.3333%
+recall: 90.1408%
+fmeasure: 87.6712%
+ 
+ 
+performansi jst_8x8_18bins_360_3: 
+akurasi: 77%
+presisi: 80%
+recall: 90.1408%
+fmeasure: 84.7682%
+ 
+ 
+performansi jst_8x8_9bins_180_3: 
+akurasi: 76%
+presisi: 86.1538%
+recall: 78.8732%
+fmeasure: 82.3529%
+ 
+ 
+performansi jst_8x8_9bins_360_3: 
+akurasi: 68%
+presisi: 74.6835%
+recall: 83.0986%
+fmeasure: 78.6667%
+ 
+ 
+Testing jst _5..
+ 
+performansi jst_16x16_18bins_180_5: 
+akurasi: 66%
+presisi: 79.3651%
+recall: 70.4225%
+fmeasure: 74.6269%
+ 
+ 
+performansi jst_16x16_18bins_360_5: 
+akurasi: 79%
+presisi: 77.1739%
+recall: 100%
+fmeasure: 87.1166%
+ 
+ 
+performansi jst_16x16_9bins_180_5: 
+akurasi: 74%
+presisi: 83.5821%
+recall: 78.8732%
+fmeasure: 81.1594%
+ 
+ 
+performansi jst_16x16_9bins_360_5: 
+akurasi: 72%
+presisi: 72.1649%
+recall: 98.5915%
+fmeasure: 83.3333%
+ 
+ 
+performansi jst_8x8_18bins_180_5: 
+akurasi: 82%
+presisi: 81.1765%
+recall: 97.1831%
+fmeasure: 88.4615%
+ 
+ 
+performansi jst_8x8_18bins_360_5: 
+akurasi: 80%
+presisi: 80.7229%
+recall: 94.3662%
+fmeasure: 87.013%
+ 
+ 
+performansi jst_8x8_9bins_180_5: 
+akurasi: 72%
+presisi: 71.7172%
+recall: 100%
+fmeasure: 83.5294%
+ 
+ 
+performansi jst_8x8_9bins_360_5: 
+akurasi: 64%
+presisi: 73.3333%
+recall: 77.4648%
+fmeasure: 75.3425%
+ 
+ 
+Testing knn 1..
+ 
+performansi knn_16x16_18bins_180_1: 
+akurasi: 80%
+presisi: 80%
+recall: 95.7746%
+fmeasure: 87.1795%
+ 
+ 
+performansi knn_16x16_18bins_360_1: 
+akurasi: 81%
+presisi: 79.5455%
+recall: 98.5915%
+fmeasure: 88.0503%
+ 
+ 
+performansi knn_16x16_9bins_180_1: 
+akurasi: 82%
+presisi: 80.4598%
+recall: 98.5915%
+fmeasure: 88.6076%
+ 
+ 
+performansi knn_16x16_9bins_360_1: 
+akurasi: 83%
+presisi: 82.1429%
+recall: 97.1831%
+fmeasure: 89.0323%
+ 
+ 
+performansi knn_8x8_18bins_180_1: 
+akurasi: 83%
+presisi: 81.3953%
+recall: 98.5915%
+fmeasure: 89.172%
+ 
+ 
+performansi knn_8x8_18bins_360_1: 
+akurasi: 82%
+presisi: 81.1765%
+recall: 97.1831%
+fmeasure: 88.4615%
+ 
+ 
+performansi knn_8x8_9bins_180_1: 
+akurasi: 81%
+presisi: 79.5455%
+recall: 98.5915%
+fmeasure: 88.0503%
+ 
+ 
+performansi knn_8x8_9bins_360_1: 
+akurasi: 78%
+presisi: 78.1609%
+recall: 95.7746%
+fmeasure: 86.0759%
+ 
+ 
+Testing knn 3..
+ 
+performansi knn_16x16_18bins_180_3: 
+akurasi: 78%
+presisi: 76.9231%
+recall: 98.5915%
+fmeasure: 86.4198%
+ 
+ 
+performansi knn_16x16_18bins_360_3: 
+akurasi: 79%
+presisi: 77.7778%
+recall: 98.5915%
+fmeasure: 86.9565%
+ 
+ 
+performansi knn_16x16_9bins_180_3: 
+akurasi: 79%
+presisi: 77.7778%
+recall: 98.5915%
+fmeasure: 86.9565%
+ 
+ 
+performansi knn_16x16_9bins_360_3: 
+akurasi: 79%
+presisi: 79.0698%
+recall: 95.7746%
+fmeasure: 86.6242%
+ 
+ 
+performansi knn_8x8_18bins_180_3: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+performansi knn_8x8_18bins_360_3: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+performansi knn_8x8_9bins_180_3: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+performansi knn_8x8_9bins_360_3: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+Testing knn 5..
+ 
+performansi knn_16x16_18bins_180_5: 
+akurasi: 79%
+presisi: 77.7778%
+recall: 98.5915%
+fmeasure: 86.9565%
+ 
+ 
+performansi knn_16x16_18bins_360_5: 
+akurasi: 78%
+presisi: 76.9231%
+recall: 98.5915%
+fmeasure: 86.4198%
+ 
+ 
+performansi knn_16x16_9bins_180_5: 
+akurasi: 78%
+presisi: 76.9231%
+recall: 98.5915%
+fmeasure: 86.4198%
+ 
+ 
+performansi knn_16x16_9bins_360_5: 
+akurasi: 80%
+presisi: 78.022%
+recall: 100%
+fmeasure: 87.6543%
+ 
+ 
+performansi knn_8x8_18bins_180_5: 
+akurasi: 83%
+presisi: 80.6818%
+recall: 100%
+fmeasure: 89.3082%
+ 
+ 
+performansi knn_8x8_18bins_360_5: 
+akurasi: 78%
+presisi: 76.3441%
+recall: 100%
+fmeasure: 86.5854%
+ 
+ 
+performansi knn_8x8_9bins_180_5: 
+akurasi: 80%
+presisi: 78.022%
+recall: 100%
+fmeasure: 87.6543%
+ 
+ 
+performansi knn_8x8_9bins_360_5: 
+akurasi: 80%
+presisi: 78.022%
+recall: 100%
+fmeasure: 87.6543%
