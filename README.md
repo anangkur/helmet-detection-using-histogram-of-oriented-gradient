@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="app/src/main/res/drawable/research.png" alt="Logo" width="80" height="80">
+    <img src="research.png" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">Helmet Detection on Motorcycle Rider Videos using Histogram of Oriented Gradients Feature Extraction</h3>
 
@@ -41,9 +41,14 @@ I use Histogram of Oriented Gradient as algorithm to extract features, and SVM a
 I also use Artificial Neural Networks and KNN as comparison algorithms for SVM.
 
 You can download the journal of this research at:
-https://socj.telkomuniversity.ac.id/ojs/index.php/indojc/article/view/377
+- https://socj.telkomuniversity.ac.id/ojs/index.php/indojc/article/view/377
 
 If there are questions or things that need to be discussed please contact me via the contact below.
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
